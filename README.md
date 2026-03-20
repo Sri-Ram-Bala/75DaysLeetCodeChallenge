@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sri-Ram-Bala/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/Sri-Ram-Bala/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sri-Ram-Bala/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sri-Ram-Bala/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sri-Ram-Bala/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sri-Ram-Bala/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
